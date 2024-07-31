@@ -5,7 +5,7 @@ import { FaArrowTrendDown } from "react-icons/fa6";
 const Hero = () => {
     return (
         <>
-            <div className="hero bg-[#0E0E0E] min-h-screen text-white">
+            <div name="Home" className="hero bg-[#0E0E0E] min-h-screen text-white">
                 <div>
                     <div className="uppercase text-center items-center">
                         <h1 className="text-9xl text-[#E26E23] font-extrabold text-center">Marketing</h1>
