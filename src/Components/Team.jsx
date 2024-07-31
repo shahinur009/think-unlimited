@@ -7,7 +7,9 @@ import pic5 from '../../public/team member/5.png'
 const Team = () => {
     return (
         <>
-            <section className="bg-[#0E0E0E] text-white p-10">
+            <section
+                name='portfolio'
+                className="bg-[#0E0E0E] text-white p-10">
                 <div className="px-10 grid grid-cols-2 gap-10">
                     <div>
                         <div className="flex uppercase">

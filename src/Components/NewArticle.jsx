@@ -10,7 +10,9 @@ import pic7 from '../../public/new article/bg-1.png';
 const NewArticle = () => {
     return (
         <>
-            <section className="bg-[#0E0E0E] text-white p-10">
+            <section 
+            name='blog'
+            className="bg-[#0E0E0E] text-white p-10">
                 <div className="uppercase text-center">
                     <h1 className="text-8xl font-extrabold">Whats our new <br />
                         <span className="text-[#E26E23]">article</span> ?</h1>

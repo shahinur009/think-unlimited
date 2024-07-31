@@ -8,7 +8,9 @@ import pic7 from '../../public/about us/pic7.png'
 const AboutUs = () => {
     return (
         <>
-            <section className="p-6 bg-[#E26E23] text-white">
+            <section
+            
+            className="p-6 bg-[#E26E23] text-white">
                 <div className='text-center'>
                     <p className='font-extrabold text-8xl text-[#E26E23] uppercase -mt-28 -ml-24'>results tells</p>
                     <p className='font-extrabold text-8xl uppercase -mt-7'>more about us</p>

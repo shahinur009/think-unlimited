@@ -4,7 +4,9 @@ import Services from './Services';
 
 const OurServices = () => {
     return (
-        <div className='text-white bg-[#0E0E0E] min-h-screen'>
+        <div
+        name="services"
+        className='text-white bg-[#0E0E0E] min-h-screen'>
             <div className='flex justify-center uppercase'>
                 <div
                     className="w-1/6 h-[600px]"

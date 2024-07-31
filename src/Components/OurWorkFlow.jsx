@@ -11,7 +11,9 @@ const OurWorkFlow = () => {
 
     return (
         <>
-            <section className="bg-[#0E0E0E] p-10">
+            <section
+                name='features'
+                className="bg-[#0E0E0E] p-10">
                 <div className="relative">
                     <div className=" mb-10 mx-auto">
                         <div className="text-center text-9xl font-extrabold flex flex-nowrap justify-between overflow-hidden opacity-50">

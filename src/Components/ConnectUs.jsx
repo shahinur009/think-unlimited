@@ -5,7 +5,9 @@ import { GoArrowDownRight } from "react-icons/go";
 
 const ConnectUs = () => {
     return (
-        <section className="bg-[#0E0E0E] text-white py-10">
+        <section
+            name='contact'
+            className="bg-[#0E0E0E] text-white py-10">
             <div className="mt-20 text-white pb-10">
                 <div className="uppercase rotate-6 flex justify-center items-center text-center mb-5 p-2 gap-5 bg-[#E26E23]">
                     <div className="flex gap-5 text-3xl">
