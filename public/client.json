@@ -1,0 +1,73 @@
+[
+    {
+      "image": "../public/client about us/Mask group (1).png",
+      "name": "Tech Innovator",
+      "designation": "Senior Developer",
+      "description": "Expert in developing scalable web applications and backend services.",
+      "rating": 4.8
+    },
+    {
+      "image": "https://via.placeholder.com/150",
+      "name": "Code Master",
+      "designation": "Full Stack Engineer",
+      "description": "Specializes in full stack development with a focus on React and Node.js.",
+      "rating": 4.6
+    },
+    {
+      "image": "https://via.placeholder.com/150",
+      "name": "Dev Guru",
+      "designation": "Software Architect",
+      "description": "Experienced in designing and implementing large-scale software solutions.",
+      "rating": 4.9
+    },
+    {
+      "image": "https://via.placeholder.com/150",
+      "name": "Techie Genius",
+      "designation": "Frontend Developer",
+      "description": "Passionate about creating responsive and user-friendly web interfaces.",
+      "rating": 4.7
+    },
+    {
+      "image": "https://via.placeholder.com/150",
+      "name": "Cyber Expert",
+      "designation": "Security Analyst",
+      "description": "Skilled in identifying and mitigating cybersecurity threats.",
+      "rating": 4.5
+    },
+    {
+      "image": "https://via.placeholder.com/150",
+      "name": "Cloud Specialist",
+      "designation": "DevOps Engineer",
+      "description": "Expert in cloud infrastructure and continuous integration/continuous deployment.",
+      "rating": 4.6
+    },
+    {
+      "image": "https://via.placeholder.com/150",
+      "name": "AI Wizard",
+      "designation": "Machine Learning Engineer",
+      "description": "Specializes in building and deploying machine learning models.",
+      "rating": 4.9
+    },
+    {
+      "image": "https://via.placeholder.com/150",
+      "name": "Data Scientist",
+      "designation": "Data Analyst",
+      "description": "Expert in data analysis, visualization, and predictive modeling.",
+      "rating": 4.7
+    },
+    {
+      "image": "https://via.placeholder.com/150",
+      "name": "Network Ninja",
+      "designation": "Network Engineer",
+      "description": "Experienced in designing and maintaining network infrastructure.",
+      "rating": 4.5
+    },
+    {
+      "image": "https://via.placeholder.com/150",
+      "name": "Tech Savvy",
+      "designation": "Technical Support Specialist",
+      "description": "Provides top-notch technical support and customer service.",
+      "rating": 4.6
+    }
+  ]
+  
