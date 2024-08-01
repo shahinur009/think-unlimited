@@ -6,12 +6,12 @@ const ClientCard = ({ item }) => {
     console.log(item)
     return (
         // < !--component -- >
-        <div className="min-h-screen flex flex-col justify-center sm:py-12 bg-[#0E0E0E] text-white py-10">
+        <div className="min-h-screen flex flex-col justify-center sm:py-12 bg-[#0E0E0E] text-white md:py-10 py-5">
 
             <div className="py-3 sm:max-w-xl sm:mx-auto">
                 <div className="shadow-lg border-gray-100 max-h-80	 border sm:rounded-3xl p-8 flex space-x-8 bg-[#E26E23]">
-                    <div className="h-48 overflow-visible w-1/2 bg-yellow-400 rounded-badge">
-                        <img className="rounded-3xl shadow-lg" src={image} alt="" />
+                    <div className="md:h-48 h-24 overflow-visible w-1/2 bg-yellow-400 rounded-badge p-2">
+                        <img className="md:rounded-3xl rounded-sm shadow-lg" src={image} alt="" />
                     </div>
                     <div className="flex flex-col w-1/2 space-y-4">
                         <div className="flex justify-between items-start">
@@ -22,7 +22,7 @@ const ClientCard = ({ item }) => {
                             <div className="text-xl text-white">{designation}</div>
                         </div>
                         <p className=" text-white max-h-40 overflow-y-hidden">{description}</p>
-                        <div className="flex text-2xl font-bold text-a">
+                        <div className="flex text-md md:text-2xl font-bold">
                             <Rating
                                 style={{ maxWidth: 180 }}
                                 value={rating}
